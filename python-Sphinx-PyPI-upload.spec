@@ -7,7 +7,7 @@ Summary:	setuptools command for uploading Sphinx documentation to PyPI
 Summary(pl.UTF-8):	komenda setuptools do publikowana dokumentacji Sphinx na PyPI
 Name:		python-%{module}
 Version:	0.2.1
-Release:	1
+Release:	2
 License:	BSD-3
 Group:		Development/Languages/Python
 Source0:	http://pypi.python.org/packages/source/S/%{module}/%{module}-%{version}.tar.gz
